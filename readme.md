@@ -6,4 +6,6 @@ Train the model.
 
 Run the classifier.
 
+## Example:
+
 ![Detection](A_detect.png)
